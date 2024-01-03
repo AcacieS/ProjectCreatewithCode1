@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "project1.1_Code1Cube.sln"
+    "dotnet.defaultSolution": "ProjectCreatewithCode1.sln"
 }
